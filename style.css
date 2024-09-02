@@ -1,0 +1,40 @@
+p{
+display: inline;
+text-transform: uppercase;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 50px;
+font-size: larger;
+
+}
+div{
+    padding-bottom: 10px;
+    background-color: rgb(212, 235, 13);
+padding-top: 0px;
+
+
+}
+body{
+    background-color: burlywood;
+    
+}
+h4{
+    font-family: "Matemasie";
+font-size: x-large;
+    font-weight: 500;
+    display: inline;
+text-transform: uppercase;
+margin: 50px;
+  font-style: italic;
+
+
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
